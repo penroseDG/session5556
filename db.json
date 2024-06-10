@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "title": " Đức hứa sẽ chăm chỉ ",
+      "content ": " Đức đang học code ",
+      "thumnail": "linkanh_duc_dang_hoc_code",
+      "created_at": "11/06/2024-SMCT",
+      "created_by": " Hoàng tử mùa đông ",
+      "ID": 1,
+      "comment": [
+        {
+          "id": 1,
+          "text": "anh đẹp trai quá  ",
+          "created_at": "10-06-2024",
+          "created_by": " ẩn danh "
+        },
+        {
+          "id": 2,
+          "text": " anh dạy em code với  ",
+          "created_at": "10-06-2024",
+          "created_by": " đoán xem "
+        }
+      ]
+    }
+  ]
+}
